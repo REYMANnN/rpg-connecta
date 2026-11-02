@@ -1,0 +1,1 @@
+{"$schema":"https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json","name":"io.github.REYMANnN/rpg-connecta","title":"RPG Connecta","description":"Open Finance API and MCP discovery for developers and AI agents building in Brazil.","version":"1.0.0","remotes":[{"type":"streamable-http","url":"https://www.rpgcapital.com.br/api/connecta/discovery-mcp"}]}
