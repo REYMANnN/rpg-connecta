@@ -1,0 +1,1 @@
+{"mcpServers":{"rpg-connecta-discovery":{"type":"http","url":"https://www.rpgcapital.com.br/api/connecta/discovery-mcp"},"rpg-connecta":{"type":"http","url":"https://www.rpgcapital.com.br/api/connecta/mcp","headers":{"Authorization":"Bearer ${RPG_MCP_TOKEN}"}}}}
